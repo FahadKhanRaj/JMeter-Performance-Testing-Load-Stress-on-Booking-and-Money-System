@@ -66,7 +66,8 @@ Gradually increased the number of users until the server bottleneck was observed
 # ✅ Load test and Stress test from the Excel file
 
 ![image](https://github.com/user-attachments/assets/0295e183-a865-4bbd-a174-f2f7d12217b4)
-![image](https://github.com/user-attachments/assets/3d9e3095-60d8-4366-9471-e4381d10ebc3)
+![image](https://github.com/user-attachments/assets/7fce0404-5a6a-4549-9e4e-d771b3eb28d0)
+
 
 
 
