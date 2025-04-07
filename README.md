@@ -95,4 +95,3 @@ Gradually increased the number of users until the server bottleneck was observed
 
 ---
 
-### END
