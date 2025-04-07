@@ -91,7 +91,7 @@ Gradually increased the number of users until the server bottleneck was observed
 ![user700 2](https://github.com/user-attachments/assets/55befe2e-433a-4564-8677-7b47ab73e441)
 
 # ✅ Dmoney request summary and statistics from the generated HTML report
-![Screenshot_1](https://github.com/user-attachments/assets/13cd1540-1db3-414a-95a3-d4cbf8a98fe0)
+![Screenshot1](https://github.com/user-attachments/assets/00dc8279-b109-4019-9cdf-706d06a9e7a5)
 
 ---
 
